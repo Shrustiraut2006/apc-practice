@@ -77,3 +77,12 @@
 # file.writelines(lines)
 # file.close()
 # print("Data written successfully.")
+
+#lambda function
+# square = lambda x: x * x
+# print("Square:", square(5))
+
+#directory
+# import os
+# os.mkdir("MyFolder")
+# print("Directory created successfully")
